@@ -1,7 +1,7 @@
 package socketio
 
 import (
-	"github.com/googollee/go-engine.io"
+	"github.com/jeppeter/go-engine.io"
 	"net/http"
 	"time"
 )
